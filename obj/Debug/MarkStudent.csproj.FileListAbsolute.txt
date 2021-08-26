@@ -1,0 +1,7 @@
+C:\Users\DELL\source\repos\MarkStudent\MarkStudent\bin\Debug\MarkStudent.exe.config
+C:\Users\DELL\source\repos\MarkStudent\MarkStudent\bin\Debug\MarkStudent.exe
+C:\Users\DELL\source\repos\MarkStudent\MarkStudent\bin\Debug\MarkStudent.pdb
+C:\Users\DELL\source\repos\MarkStudent\MarkStudent\obj\Debug\MarkStudent.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\MarkStudent\MarkStudent\obj\Debug\MarkStudent.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\MarkStudent\MarkStudent\obj\Debug\MarkStudent.exe
+C:\Users\DELL\source\repos\MarkStudent\MarkStudent\obj\Debug\MarkStudent.pdb
